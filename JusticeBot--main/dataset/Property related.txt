@@ -1,0 +1,75 @@
+1. Transfer of Property Act, 1882
+The Transfer of Property Act, 1882 governs the transfer of property by various means such as sale, gift, mortgage, lease, and exchange.
+
+Key Sections:
+Section 5: Defines "transfer of property" and its scope.
+Section 6: Types of properties that can be transferred.
+Section 7: Competency to transfer property.
+Section 44: Rights of co-owners and impact of transfers among co-owners.
+Section 53: Addresses fraudulent transfers made to defeat or delay creditors.
+Section 54: Defines "sale" of property and its implications.
+2. Indian Succession Act, 1925
+The Indian Succession Act, 1925 governs the rules of succession and inheritance for properties, specifically for individuals not covered by personal laws (e.g., Christians and Parsis).
+
+Key Sections:
+Section 8-11: Rules for intestate succession.
+Section 30: Wills and testamentary succession.
+3. Indian Contract Act, 1872
+The Indian Contract Act, 1872 deals with agreements related to property transactions and enforces contracts.
+
+Key Sections:
+Section 10: Essential elements of a valid contract.
+Section 17: Fraud in contracts.
+Section 19: Coercion and undue influence in agreements.
+4. Hindu Succession Act, 1956
+The Hindu Succession Act, 1956 governs inheritance and succession for Hindus, Buddhists, Jains, and Sikhs.
+
+Key Provisions:
+Section 6: Rights of daughters and their share in ancestral property.
+Section 8-9: Succession to intestate properties.
+5. Muslim Personal Law (Shariat) Application Act, 1937
+The Muslim Personal Law (Shariat) Application Act, 1937 deals with inheritance and succession for Muslims.
+
+Key Provisions:
+Inheritance: Outlines shares of heirs under Islamic law.
+6. The Property Act, 1960
+The The Property Act, 1960 governs specific aspects related to the management of property and tenancy.
+
+Key Sections:
+Section 4: Definition of property and its classification.
+Section 7: Regulation of property transfers and leases.
+7. Specific Relief Act, 1963
+The Specific Relief Act, 1963 provides remedies related to property disputes, including specific performance of contracts and injunctions.
+
+Key Provisions:
+Section 12: Specific performance of contracts for the transfer of property.
+Section 38: Injunctions to prevent property dispossession.
+8. Limitation Act, 1963
+The Limitation Act, 1963 sets time limits for filing lawsuits, including those related to property disputes.
+
+Key Provisions:
+Section 3: Bar on suits after the limitation period has expired.
+Section 5: Extension of limitation period in certain cases.
+9. Code of Civil Procedure (CPC), 1908
+The Code of Civil Procedure (CPC), 1908 outlines the procedures for civil litigation, including property disputes.
+
+Key Sections:
+Order 1: Parties to the suit.
+Order 2: Frame of suits.
+Order 39: Temporary injunctions and stay of proceedings.
+10. Land Acquisition Act, 1894
+The Land Acquisition Act, 1894 deals with the process of acquiring private land for public purposes and provides for compensation.
+
+Key Provisions:
+Section 4: Preliminary notification for acquisition.
+Section 6: Declaration of intention to acquire land.
+11. Real Estate (Regulation and Development) Act, 2016 (RERA)
+The Real Estate (Regulation and Development) Act, 2016 regulates the real estate sector, ensuring transparency and accountability in property transactions.
+
+Key Provisions:
+Section 3: Registration of real estate projects and agents.
+Section 7: Duties of developers and real estate agents.
+Dispute Resolution Mechanisms
+Mediation and Arbitration: Alternative dispute resolution mechanisms are often used for resolving property disputes outside the court system.
+Civil Courts: Property disputes are generally filed in civil courts, and the procedure follows the CPC.
+Revenue Courts: In some cases, disputes related to land records and revenue matters are addressed by revenue courts or authorities.

@@ -1,0 +1,53 @@
+MURDER
+
+1. Indian Penal Code (IPC), 1860: Provisions Related to Murder
+Section 299 – Culpable Homicide
+Definition: Culpable homicide is defined as causing death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that the act is likely to cause death.
+Classification: Culpable homicide can be classified into two categories:
+Culpable Homicide Amounting to Murder (Section 300): This is the more severe category and is considered murder.
+Culpable Homicide Not Amounting to Murder (Section 304): This is considered a lesser offense and carries a lighter punishment.
+Section 300 – Murder
+Definition: A homicide is considered murder if it meets specific criteria such as:
+
+The act is done with the intention of causing death.
+The act is done with the intention of causing bodily injury that the offender knows is likely to cause death.
+The act is done with the intention of causing bodily injury that is sufficient in the ordinary course of nature to cause death.
+The act is done with the knowledge that it is imminently dangerous and will in all probability cause death or bodily injury that is likely to cause death.
+Exceptions: Section 300 also outlines exceptions where culpable homicide is not considered murder, such as:
+
+Grave and sudden provocation: If the offender is deprived of the power of self-control due to grave and sudden provocation.
+Self-defense: If the act is done in self-defense.
+Exceeding private defense: If the right of private defense is exceeded without premeditation.
+Without premeditation: If the act is done without premeditation in a sudden fight in the heat of passion.
+Consent: If the person whose death is caused is above 18 years of age and consents to the risk of death.
+Section 302 – Punishment for Murder
+Punishment: Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to a fine. The death penalty is usually reserved for the "rarest of rare" cases, following the guidelines established by the Supreme Court of India.
+Section 304 – Punishment for Culpable Homicide Not Amounting to Murder
+Punishment: Imprisonment for life or imprisonment for a term that may extend to ten years, and shall also be liable to a fine. If the act is done with the knowledge that it is likely to cause death, but without any intention to cause death or to cause such bodily injury as is likely to cause death, the punishment can extend to imprisonment for up to ten years, or with a fine, or both.
+2. Code of Criminal Procedure (CrPC), 1973: Legal Procedures for Murder Cases
+The CrPC outlines the procedure for the investigation, trial, and appeal in criminal cases, including murder.
+
+Investigation (Sections 154-176)
+First Information Report (FIR): Under Section 154, the police must register a First Information Report (FIR) if they receive information regarding the commission of a cognizable offense like murder.
+Investigation: Once the FIR is registered, the police are empowered to investigate the case, collect evidence, and record witness statements under Section 161. They may also arrest the accused without a warrant if necessary.
+Inquest Report: Under Section 174, the police must prepare an inquest report if the death is suspicious or caused by homicide. This report includes details like the apparent cause of death and evidence gathered at the crime scene.
+Trial Procedure (Sections 225-237)
+Sessions Court: Murder cases are tried in a Sessions Court, which is a higher court that deals with serious offenses.
+Framing of Charges: Under Section 228, if the Sessions Judge, after hearing the prosecution and the accused, finds that there is sufficient ground to proceed, charges are framed, and the case proceeds to trial.
+Examination of Witnesses: The prosecution and defense can examine witnesses. Cross-examination is also permitted.
+Evidence: Both parties present evidence, including documents, expert testimonies, and witness statements.
+Final Arguments: After all evidence is presented, both the prosecution and defense make their final arguments.
+Judgment (Section 235)
+Judgment: The court will deliver its judgment based on the evidence and arguments presented. If the accused is found guilty, the court will impose a sentence under Section 302 or 304 of the IPC.
+Appeals (Sections 374-379)
+Appeal: The accused has the right to appeal the Sessions Court’s decision to the High Court under Section 374. If dissatisfied with the High Court’s judgment, they can appeal to the Supreme Court of India.
+3. Indian Evidence Act, 1872: Rules of Evidence in Murder Cases
+The Indian Evidence Act governs the admissibility of evidence in criminal cases, including murder trials.
+
+Burden of Proof (Sections 101-114)
+Prosecution’s Burden: The burden of proof lies on the prosecution to prove the guilt of the accused beyond a reasonable doubt.
+Presumptions: Certain presumptions can be drawn from the evidence presented, such as the presumption of innocence until proven guilty.
+Types of Evidence (Sections 59-60, 61-90)
+Oral Evidence: Witness statements are considered oral evidence and must be direct, i.e., from a person who has directly seen or heard the event.
+Documentary Evidence: Includes any documents or electronic records presented to prove facts in the case.
+Expert Evidence: Expert opinions may be presented, such as forensic reports, to establish facts like the cause of death or the nature of injuries.

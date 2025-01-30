@@ -1,0 +1,94 @@
+Court Proceedings
+Any proceedings whether civil, criminal, juvenile, or any deposition before the court on record will be termed as court proceedings. However, it does not include any small claim proceeding within its ambit. In criminal law, the proceedings are bifurcated on the basis of the trial, i.e., Warrant Trial, Summon Trial, Summary Trial. Whereas in the civil proceeding as such no bifurcation is made and procedure solely depend on the principles of civil law. 
+Criminal Court Proceedings
+In India, CrPC (Code of Criminal Procedure) is the procedural law for conducting a criminal trial. The procedure comprises of the manner for collection of evidence, interrogation of accused, arrest, the examination of witnesses, safeguards and procedure to be implemented by Police and Courts, method of conviction, bail, the procedure for the criminal trial, and the accused rights of a fair trial. According to the Code of Criminal Procedure, a Criminal Trial is of three types:
+•	Warrant Trial;
+•	Summon Trial;
+•	Summary Trial.
+
+
+Procedure for Criminal Court Proceedings
+
+Based on the types of a criminal trial, the stages involved in a criminal court proceeding are as follows:
+•	First Information Report: An individual can lodge a First Information Report under section 154 of the CrPC to the police for a cognizable offence. An FIR puts the criminal law in motion.
+•	Investigation: In the next step, the police officer or the investigating officer will start his process of investigation. Further, after concluding the process of investigation, the concerned police officer will make his report known as the “Police Report”. However, such a report shall be made only after examining the facts and circumstances, recording statement and collecting necessary evidences. After that, the police officer needs to forward his police report to the magistrate.
+•	Charges: After receiving the Police Report, the magistrate will decide whether any cognizable case is being made or not. If after considering, the magistrate is of the opinion that a cognizable case is being made, it will frame the charges on which the said accused will be tried. For a warrant case, the charges should be made in writing.
+•	Plea of Guilty: According to section 241 of the Code of Criminal Procedure, 1973, once the charges are made, the accused is given a chance to plead guilty. However, the judge has the sole discretion to decide whether such a pleading was voluntary or not. Moreover, a judge upon his discretion can convict the accused.
+•	Prosecution Evidence: Once the charges are framed and accused has pleaded guilty. Then the court needs the prosecution to produce evidence in order to prove the guilt of the accused. Moreover, the prosecution is also asked to support their evidence together with the statements from its witnesses. The process of recording statement of witnesses is known as examination in chief. The magistrate also has the authority to issue summons to any person acting as a witness or directs him to produce any document.
+•	Statement of Accused: According to section 313 of the Code of Criminal Procedure, the court grants the accused an opportunity to be heard and describe the facts and circumstances of the respective case. Further, the statements made by the accused are not recorded on oath, and the same can be used against him in the criminal trial.
+•	Defence Evidence: If an accused has not been acquitted, he will be given an opportunity of producing defence to defend his case. Further, the defence can produce in both oral and documentary form. Generally, an accused is not supposed to give any defence evidence as the burden of proving is on the prosecution in India.
+•	Judgement: In last, the final decision of the court along with reasons given in support of the conviction or acquittal of the accused is known as the judgement. If in case the accused is acquitted by the court, the prosecution is provided time to appeal against the order passed by the court. However, when a person is convicted, then both the sides are invited to give their arguments on the punishment awarded by the court. This is normally done when a person is convicted of an offence whose punishment is either imprisonment for life or capital punishment.
+
+
+Civil Court Proceedings
+
+
+A civil case involves a conflict between two or more people or institutions, usually over money. A civil suit commences when any person claims that he has been harmed or injured by the actions of another business or person. By filing a complaint, the plaintiff asks the court to provide the relief sought. Further, most of the civil cases are guided by the well-settled principles of the CPC (Code of Civil Procedure).
+Procedure for Civil Proceedings
+The stages involved in a civil court proceeding are as follows:
+•	First Hearing: If on the day of the first hearing, the court is of the opinion that there is merit in the respective case, it will issue a notice to the defendants, i.e., the opposite party. A notice is issued to call upon the opposite party to submit their arguments on a date decided by the court, i.e., Next Date of Hearing. After the issuance of a notice, the plaintiff is required to do the following:
+o	File the prescribed Amount of procedure-fee in the Court;
+o	File two copies of Plaint for each defendant in the Court;
+o	Out of the two copies filed for each defendant/ opposite party, one copy shall be sent by way of Speed Post/ Courier/ Registered A.D., and the other copy shall be sent by way of Ordinary Post;
+o	Such filing must be done within seven days starting from the date of order passed or notice issued.
+•	Written Statement by Defendant: The key points concerning written statement are as follows:
+o	Once the notice issued has been received by the defendant, he is needed to appear before the court on the date specified in the notice. However, prior to appearing on the date, the defendant is needed to file his “written statement”, i.e., his defense against the allegation raised by the plaintiff;
+o	The WS (Written Statement) must be filed within thirty days starting from the date of service of notice, or within a time provided by the court;
+o	The period provided for the filing of Written Statement can be extended further to 90 days, but only after seeking the permission of the court;
+o	The WS should specifically deny all the allegations raised in the plaint. Moreover, any allegation, which is not specifically denied by the defendant, is deemed to be admitted;
+o	The written statement must also contain a form of verification by the Defendant, declaring that the contents of the WS are true and correct.
+•	Replication by Plaintiff: Once the written statement is filed by the defendant, the plaintiff is needed to file a replication. Further, replication is a reply filed by the plaintiff against the written statement. All the defences made by the Defendant in his written statement are to be explicitly denied by the Plaintiff in his Replication. Furthermore, anything which is not denied will be deemed to be accepted. Lastly, pleadings stand complete after the filing of replication.
+•	Filing Other Documents: Once the pleadings are complete and both the parties have duly filed their submissions, the court will provide an opportunity to both the parties to file relevant documents that are substantial to their claims. Further, the process for filing other documents are as follows:
+o	There may be chances where the documents filed by one party are admitted by the opposite party;
+o	There can be another situation where the documents filed by the plaintiff are denied by the opposite party or defendant. In this case, it can be admitted by the witnesses produced by the party whose documents are being denied;
+o	Once all the documents are admitted, it shall then be taken on record, and all the particulars of the suit shall be inscribed on the document as per Order-13 Rule 49 of the Code of Civil Procedure;
+o	It is compulsory that any document which is being filed by the parties must be original and a copy of the same document shall be provided to the opposite party;
+o	Further, any document which is not produced or filed in the court at the stage of evidence cannot be relied on during the final arguments.
+•	Framing of Issues: The key points of the stage of framing of issues are as follows:
+o	The next stage of the civil court proceeding is the Framing of Issues. The term framing of issues means the issues framed by the court based on which the examination of witnesses or arguments takes place;
+o	Issues are framed, keeping in view the point of dispute in the suit. Parties are not permitted to go outside the ambit of ‘Issues”;
+o	Issues framed can be both Fact or Law;
+o	At the time of passing the final order, the court shall deal with each issue separately, and shall also pass judgements on each issue.
+•	Cross Examination/ List of Witnesses: The key points considering cross examination are as follows:
+o	All the witnesses that a party wish to produce, and get examined, shall need to be presented before the court within fifteen days starting from the date on which issues were framed or within such a period as may be decided by the court;
+o	Both the parties of the case are required to file a list of their witnesses;
+o	The witnesses may either be called by the parties or by the court. A court can also ask the witnesses to be present before it by sending summons to them.
+o	In case the summons has been issued by the court, then the party who have been asked for such presence of a witness, needs to deposit some amount of money with the court for their expenses. Therefore, the amount deposited by the party in the court is known as “Diet Money”;
+o	Further, on the date of hearing (DOH), the witnesses produced by the party before the court will get examined by both the parties. After the completion of the cross examination, the court will fix a date for the final hearing.
+•	Final Hearing: The key points to consider for the stage of final hearing are:
+o	On the day of the final hearing, the court will listen to only those arguments that are strictly limited to the issues framed;
+o	The court will pass final order after hearing the final arguments of both plaintiff and defendant. Such an order shall be passed either on the same day, i.e., day of final hearing itself, or on the next day fixed by the Court;
+o	However, before the stage of final arguments, both the parties are allowed to amend their pleadings, but only with the permission of the court.
+•	Appeal Reference Review: When a court passes an order a party, such a party has the right to go further to initiate the proceedings by the of the following:
+o	Appeal;
+o	Reference;
+o	Review.
+o	However, the following are some of the technicalities in filing an appeal:
+o	If in case the suit value does not exceed the threshold of Rs 10000, then the aggrieved party can file an appeal only against the question of law;
+o	However, in case a decree is being passed by the court against the Defendant as Ex-Parte, then no appeal is allowed.
+•	Procedure for Appeal: the steps given below deals with the procedure of filing an appeal:
+o	The aggrieved party has to file an appeal in the prescribed form. The appeal shall be signed by the appellant, together with a certified copy of the order;
+o	If in case an appeal is filed against a decree for the payment of money, then the court may pass an order asking the petitioner to deposit the disputed amount in the court;
+o	In case an issue is not taken up by the appellant, in the lower court, then the same cannot be later taken up in the appeal filed as well. That means an appeal lies only against those facts which have been duly decided by the lower court; no matter they were correct or not.
+
+Frequent Question Asked:-
+
+1. How to File a Civil Suit in India?
+The steps involved in filing a Civil Suit in India are as follows:
+a) Drafting of Plaint: The foremost step to initiate a suit is to draft a plaint. A plaint is a written document containing allegations. The party who files/ drafts it is known as Plaintiff, and the party against whom the said plaint is filed is known as Defendant.
+b) Vakalatnama: Vakalatnama acts as a written document, by way of which the parties to the suit authorizes an Advocate to represent them before the respective court. However, if in case a party is personally representing its own case, then there is no need to file a Vakalatnama.
+c) Filing of Plaint: In the next step, the plaintiff needs to file a plaint before the Chief Ministerial Officer at the filing counter, together with an appropriate court fee and process fee.
+d) Court Fees: Court fees acts as a nominal percentage of the total value of the suit or the total value of the claim. The amount of court fees and stamp duty varies for every suit, and the same is specified in the Court Fees Stamp Act.
+
+
+2. Can I file a case without a lawyer?
+Yes, an individual can file a case without a lawyer, i.e., party-in-person. However, it is always suggested to hire a lawyer for the case, as an individual can not be expected to be well-versed with the court procedure.
+
+3. Does a summon goes on record?
+No, a summon does not go on Court Record.
+
+4. What happens if a person never gets a summon?
+If in case a person has not been properly served by the opposite party or by the court, he or she don't need to show up, i.e., the court does not have any personal jurisdiction over that person, and it cannot pass judgment against him or her. However, at the same time, if the court is of the opinion that the said person was properly summoned, it may pass an order in against of the person.
+
+Does this Chatbot Provide Service in My City?
+Yes, Justicebot is a 100% online platform rendering all over the nation no matters wherever the individual is residing. The only thing required is an internet connection on the mobile or laptop, and we are all set to assist you.
